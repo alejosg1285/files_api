@@ -6,7 +6,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
-      <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails carrierwave_test: development" uuid="d8ca49d8-c14f-4bf4-8438-14e32319a5a6">
       <driver-ref>sqlite.xerial</driver-ref>

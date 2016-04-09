@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQLite -" uuid="97f1e257-7fca-44e7-8ac7-760fbdf6ce08">
+      <secret-storage>memory</secret-storage>
+    </data-source>
+    <data-source name="Rails carrierwave_test: development" uuid="d8ca49d8-c14f-4bf4-8438-14e32319a5a6">
+      <secret-storage>memory</secret-storage>
+    </data-source>
+  </component>
+</project>
